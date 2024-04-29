@@ -12,5 +12,9 @@
   "repository": {
 		"type": "git",
 		"url": "https://github.com/datfcknadam/quizliq-maps/tree/main/packages/usa-half"
-	}
+	},
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
